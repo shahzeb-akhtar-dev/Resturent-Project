@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "shahzeb",
+      "Email": "shahzeb@gmail.com",
+      "Password": "1234",
+      "id": 1
+    },
+    {
+      "name": "shahzeb2",
+      "Email": "shahzeb2@gmail.com",
+      "Password": "shahzeb@2222",
+      "id": 5
+    },
+    {
+      "name": "shahzeb 22",
+      "Email": "shahzeb32@gmail.com",
+      "Password": "shahzeb2333",
+      "id": 6
+    },
+    {
+      "name": "",
+      "Email": "",
+      "Password": "",
+      "id": 7
+    }
+  ],
+  "Resturent": [
+    {
+      "name": "naz hotel",
+      "address": "islamabad",
+      "contact": 345034,
+      "id": 1
+    },
+    {
+      "name": "tik",
+      "address": "ghazi",
+      "contact": "34322",
+      "id": 4
+    },
+    {
+      "name": "kabab",
+      "address": "islamabad",
+      "contact": "340343",
+      "id": 5
+    }
+  ]
+}
